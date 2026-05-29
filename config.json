@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpercerify",
+        "uuid": 41651496,
+        "checksum": "h3zxqps"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
